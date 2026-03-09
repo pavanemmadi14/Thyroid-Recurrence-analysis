@@ -1,0 +1,1189 @@
+Age,Gender,Smoking_History,Radiotherapy_History,Tumor_Size_Cm,Focality,Adenopathy,Stage,Thyroid_Function,Treatment_Type,Follow_Up_Years,Recurrence
+50,Female,No,No,3.91,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery,3,No
+69,Female,No,Yes,5.04,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,8,No
+46,Male,No,No,2.54,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,2,Yes
+32,Female,Yes,No,5.14,Multifocal,Present,Stage I,Euthyroid,Surgery,1,No
+60,Female,No,No,2.88,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery,11,Yes
+25,Male,No,No,6.1,Multifocal,Absent,Stage I,Hypothyroid,Surgery,2,No
+78,Male,No,No,4.22,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery,9,No
+38,Female,No,Yes,3.45,Multifocal,Present,Stage I,Hyperthyroid,Surgery,5,No
+56,Female,No,No,1.07,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,11,No
+75,Female,No,No,4.47,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery,8,No
+36,Female,No,Yes,3.05,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,3,Yes
+50,Male,No,No,3.31,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,7,No
+28,Male,No,No,4.42,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,2,No
+28,Female,Yes,No,4.71,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,8,No
+41,Male,No,No,4.97,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,14,No
+70,Male,No,Yes,2.09,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,7,No
+53,Male,Yes,No,5.21,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,12,No
+57,Male,No,Yes,2.81,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Radiation,5,No
+41,Male,No,No,0.79,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery,12,No
+20,Male,No,Yes,2.09,Unifocal,Present,Stage Iv,Hypothyroid,Surgery + Rai,11,Yes
+39,Male,No,No,3.76,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,4,No
+70,Male,No,No,2.33,Unifocal,Absent,Stage I,Hypothyroid,Surgery,1,No
+19,Female,Yes,No,3.39,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery,5,No
+41,Female,Yes,No,3.91,Multifocal,Absent,Stage I,Hypothyroid,Surgery,12,Yes
+61,Female,Yes,No,3.28,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,9,No
+47,Female,No,No,2.91,Multifocal,Absent,Stage I,Euthyroid,Surgery,10,No
+55,Female,No,No,2.0,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,4,Yes
+19,Male,No,No,3.53,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,13,No
+77,Female,No,No,1.02,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,9,No
+38,Female,No,No,2.68,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery,12,Yes
+50,Female,No,No,2.39,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,2,Yes
+29,Male,No,No,3.21,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Rai,4,No
+75,Male,No,No,3.24,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Radiation,9,Yes
+39,Male,No,No,4.65,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,4,No
+78,Male,No,Yes,5.4,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,5,No
+61,Female,No,Yes,2.16,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,11,No
+42,Female,No,No,5.89,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,8,Yes
+66,Male,No,No,2.56,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,1,Yes
+44,Female,No,Yes,3.71,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery,1,Yes
+76,Female,Yes,No,4.11,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery,9,Yes
+59,Male,No,No,6.43,Unifocal,Present,Stage I,Hypothyroid,Surgery + Radiation,9,No
+45,Male,No,No,2.85,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery,4,Yes
+77,Male,No,No,1.34,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,13,No
+33,Male,Yes,Yes,5.29,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,2,No
+32,Male,Yes,No,2.5,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,13,No
+79,Male,Yes,No,3.07,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,9,Yes
+79,Male,No,No,2.16,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,14,Yes
+64,Male,No,No,3.07,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery,4,Yes
+79,Female,Yes,No,2.49,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery,6,No
+68,Male,No,No,4.31,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,12,No
+61,Female,No,No,3.6,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,1,No
+72,Male,No,No,2.68,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,12,No
+69,Female,No,No,3.45,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,9,No
+74,Male,No,No,3.81,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,5,No
+20,Male,No,Yes,1.28,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,3,No
+54,Female,No,Yes,4.6,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,4,Yes
+68,Female,No,No,3.72,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,1,Yes
+24,Female,No,No,5.17,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,14,No
+38,Male,No,No,3.65,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,9,No
+26,Male,No,No,2.55,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,14,No
+56,Female,No,No,3.25,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,8,No
+35,Male,Yes,No,4.46,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Rai,4,No
+21,Female,No,No,2.58,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery,2,No
+42,Female,Yes,No,2.97,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,14,No
+77,Male,Yes,Yes,3.23,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,9,No
+31,Female,No,No,2.12,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,4,No
+67,Male,No,No,2.59,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,9,No
+75,Male,Yes,No,3.71,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery,10,No
+26,Male,No,No,4.94,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,3,No
+43,Female,No,No,3.88,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,7,No
+70,Male,Yes,No,3.44,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,7,No
+19,Male,No,Yes,2.5,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Rai,10,No
+37,Female,No,No,4.81,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,13,No
+45,Male,No,No,4.02,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,4,Yes
+64,Female,Yes,Yes,2.65,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,2,No
+77,Male,No,Yes,4.58,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,11,Yes
+24,Female,No,No,4.17,Unifocal,Absent,Stage I,Hypothyroid,Surgery,9,No
+61,Female,No,Yes,2.52,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,4,No
+78,Male,Yes,No,3.38,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,8,No
+25,Male,No,No,2.91,Multifocal,Present,Stage I,Hypothyroid,Surgery + Radiation,14,Yes
+52,Male,No,No,4.14,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,8,No
+31,Female,Yes,No,3.72,Unifocal,Present,Stage I,Hypothyroid,Surgery + Rai,11,No
+34,Male,No,No,4.07,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,10,Yes
+53,Female,No,Yes,5.15,Multifocal,Absent,Stage I,Euthyroid,Surgery + Rai,5,No
+67,Male,No,No,3.4,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,7,No
+57,Female,Yes,No,2.79,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,7,Yes
+21,Female,No,No,4.51,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,12,No
+19,Female,No,No,3.29,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,9,No
+79,Female,No,No,2.22,Multifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,3,No
+23,Male,No,Yes,1.98,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,10,No
+71,Male,No,Yes,5.34,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,4,No
+59,Male,No,No,3.66,Multifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,10,No
+21,Female,No,No,2.79,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,4,No
+71,Female,No,Yes,3.22,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,13,No
+46,Male,No,No,4.47,Unifocal,Present,Stage I,Hypothyroid,Surgery + Radiation,10,Yes
+35,Female,No,No,3.15,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery,5,No
+43,Male,No,No,1.76,Unifocal,Present,Stage I,Euthyroid,Surgery + Rai,14,No
+61,Male,Yes,No,3.89,Multifocal,Present,Stage Iii,Euthyroid,Surgery + Rai,6,No
+51,Male,No,Yes,4.95,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,3,No
+27,Female,No,No,4.87,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Radiation,13,No
+79,Female,No,No,2.83,Multifocal,Absent,Stage I,Hypothyroid,Surgery,4,No
+53,Female,Yes,No,5.02,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,3,Yes
+31,Male,No,No,3.76,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,2,No
+48,Female,No,Yes,4.99,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,10,No
+65,Male,No,No,4.19,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,12,No
+32,Male,Yes,No,1.67,Multifocal,Absent,Stage I,Euthyroid,Surgery + Rai,9,Yes
+25,Male,No,No,5.6,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,1,No
+31,Female,No,No,3.56,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,2,Yes
+40,Female,No,No,4.19,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,8,Yes
+77,Female,No,No,1.89,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,7,Yes
+74,Male,No,No,4.11,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,12,No
+79,Female,No,No,4.82,Multifocal,Present,Stage I,Euthyroid,Surgery + Rai,1,No
+57,Male,No,No,5.82,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,5,No
+38,Female,No,No,5.18,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,10,No
+33,Male,No,No,4.17,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Rai,6,No
+62,Male,Yes,Yes,1.65,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,5,No
+35,Female,Yes,No,3.66,Multifocal,Present,Stage Ii,Hypothyroid,Surgery + Rai,4,No
+64,Male,No,No,2.79,Multifocal,Absent,Stage I,Hypothyroid,Surgery,14,No
+70,Female,No,No,3.78,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,13,No
+41,Female,No,No,2.04,Unifocal,Present,Stage I,Euthyroid,Surgery,1,No
+43,Male,No,No,3.25,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,7,No
+42,Female,No,No,2.88,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery + Rai,9,No
+77,Male,No,No,2.84,Unifocal,Absent,Stage I,Euthyroid,Surgery + Rai,6,No
+77,Female,Yes,No,2.85,Multifocal,Present,Stage I,Hypothyroid,Surgery,3,Yes
+77,Male,No,No,3.34,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,10,No
+62,Female,No,No,3.84,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,14,No
+58,Male,Yes,No,0.5,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,4,No
+46,Male,Yes,No,0.65,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery,10,No
+32,Female,No,No,3.09,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,5,No
+62,Male,No,No,3.26,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,12,No
+18,Male,No,No,3.73,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,12,No
+42,Female,No,No,2.63,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,1,Yes
+24,Female,No,No,3.51,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,5,No
+26,Female,No,Yes,3.65,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery + Radiation,1,No
+41,Female,No,No,2.62,Unifocal,Absent,Stage I,Euthyroid,Surgery + Rai,9,Yes
+18,Female,No,No,4.72,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,7,No
+61,Male,Yes,No,3.71,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,3,No
+25,Male,No,Yes,4.16,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,9,No
+41,Male,No,No,3.58,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,2,Yes
+28,Female,No,No,6.02,Unifocal,Present,Stage Ii,Hypothyroid,Surgery,12,No
+68,Male,No,Yes,4.22,Multifocal,Present,Stage Ii,Euthyroid,Surgery,7,No
+34,Female,No,No,2.91,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,9,No
+25,Female,Yes,No,4.49,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,6,No
+52,Female,No,Yes,1.53,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,10,Yes
+52,Male,No,No,3.64,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,5,No
+50,Female,Yes,No,3.88,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,12,Yes
+76,Male,Yes,No,3.66,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,7,Yes
+22,Female,No,No,3.1,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,14,No
+59,Male,No,Yes,2.29,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,6,No
+56,Male,No,Yes,2.55,Multifocal,Present,Stage Iv,Hypothyroid,Surgery + Radiation,5,No
+75,Female,No,Yes,3.62,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery,14,Yes
+58,Male,No,Yes,2.16,Multifocal,Present,Stage I,Hypothyroid,Surgery + Radiation,2,No
+45,Male,No,No,5.62,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,8,No
+26,Female,No,No,3.11,Unifocal,Present,Stage Iv,Hypothyroid,Surgery + Rai,7,No
+25,Female,No,No,3.63,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,6,No
+29,Female,Yes,Yes,4.11,Multifocal,Present,Stage Iv,Euthyroid,Surgery,5,No
+51,Female,No,No,2.4,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,5,Yes
+50,Male,No,No,4.86,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,9,No
+50,Male,No,No,1.83,Multifocal,Present,Stage Iii,Euthyroid,Surgery,1,No
+72,Male,Yes,No,2.82,Multifocal,Present,Stage I,Euthyroid,Surgery + Radiation,9,No
+40,Male,Yes,No,4.24,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,6,No
+79,Female,No,No,4.75,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,4,No
+41,Male,No,No,1.82,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,10,Yes
+52,Male,No,No,2.42,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery,7,No
+61,Male,No,No,1.93,Multifocal,Present,Stage I,Hypothyroid,Surgery + Radiation,9,No
+57,Female,Yes,No,4.1,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,5,No
+39,Female,No,No,3.08,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,14,No
+44,Female,Yes,No,2.9,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,5,No
+52,Male,No,No,4.21,Multifocal,Absent,Stage I,Euthyroid,Surgery + Rai,8,No
+18,Female,No,No,1.67,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery + Radiation,7,No
+52,Male,No,No,1.46,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,13,No
+54,Female,Yes,No,2.78,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,13,Yes
+64,Female,Yes,Yes,4.79,Unifocal,Absent,Stage I,Hypothyroid,Surgery,8,No
+31,Male,No,No,2.84,Multifocal,Present,Stage I,Hyperthyroid,Surgery,11,No
+20,Female,No,No,5.42,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery,12,No
+18,Male,Yes,No,4.94,Multifocal,Present,Stage Ii,Hypothyroid,Surgery + Radiation,10,Yes
+22,Female,No,Yes,3.84,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,2,No
+43,Female,Yes,No,3.91,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery,9,No
+72,Male,No,No,3.84,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,3,No
+31,Female,No,No,3.69,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,6,No
+56,Male,No,No,3.06,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery,6,No
+44,Male,No,No,3.2,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,2,No
+26,Female,Yes,No,2.22,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,12,Yes
+32,Male,No,No,0.85,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,13,No
+32,Female,Yes,Yes,4.82,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery,7,No
+43,Female,Yes,No,3.69,Unifocal,Absent,Stage I,Hypothyroid,Surgery,9,No
+59,Male,No,Yes,3.51,Multifocal,Absent,Stage I,Hypothyroid,Surgery,12,No
+77,Male,Yes,No,3.98,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,10,Yes
+30,Female,No,No,2.51,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery,11,Yes
+68,Female,No,Yes,2.3,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Radiation,1,No
+49,Female,No,Yes,3.16,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery,8,No
+56,Male,No,Yes,5.14,Multifocal,Absent,Stage I,Euthyroid,Surgery + Rai,2,No
+50,Male,Yes,No,2.1,Multifocal,Absent,Stage I,Euthyroid,Surgery,14,No
+78,Female,No,No,2.87,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,8,No
+49,Male,No,Yes,4.87,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,2,No
+21,Male,No,Yes,1.42,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,6,No
+47,Male,Yes,Yes,2.08,Multifocal,Present,Stage Iv,Euthyroid,Surgery,6,No
+54,Female,No,Yes,3.82,Multifocal,Absent,Stage I,Euthyroid,Surgery,5,No
+56,Male,No,No,1.87,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,3,No
+62,Male,No,No,1.82,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,13,No
+32,Female,No,Yes,3.91,Multifocal,Present,Stage I,Euthyroid,Surgery + Rai,10,No
+60,Female,No,No,4.95,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,4,No
+46,Male,Yes,No,2.75,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,7,Yes
+53,Female,No,No,1.55,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,7,No
+30,Male,No,No,4.02,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,13,No
+49,Male,No,Yes,4.24,Multifocal,Present,Stage I,Hypothyroid,Surgery + Rai,12,No
+24,Female,No,No,5.63,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,14,Yes
+76,Male,No,No,4.29,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,8,Yes
+68,Male,Yes,No,4.49,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,2,Yes
+39,Male,Yes,No,3.19,Unifocal,Present,Stage Iv,Euthyroid,Surgery,11,No
+45,Female,Yes,No,6.43,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery,12,Yes
+19,Female,No,No,3.02,Unifocal,Absent,Stage I,Hypothyroid,Surgery,2,No
+59,Male,No,No,2.77,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Rai,4,Yes
+62,Female,No,No,5.67,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,13,Yes
+79,Male,No,No,1.73,Multifocal,Present,Stage Iii,Euthyroid,Surgery,10,Yes
+74,Female,Yes,No,1.28,Unifocal,Absent,Stage I,Hypothyroid,Surgery,13,Yes
+70,Male,No,No,3.64,Unifocal,Present,Stage Iv,Hypothyroid,Surgery + Radiation,9,No
+23,Male,No,Yes,3.5,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,10,No
+45,Male,Yes,No,3.23,Unifocal,Absent,Stage I,Euthyroid,Surgery,12,No
+45,Female,No,No,4.69,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,9,Yes
+61,Female,No,No,2.41,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,13,No
+61,Female,Yes,No,3.58,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,13,No
+37,Male,No,No,3.07,Unifocal,Absent,Stage I,Euthyroid,Surgery,4,No
+47,Female,No,Yes,2.43,Unifocal,Present,Stage I,Hypothyroid,Surgery + Radiation,9,Yes
+79,Male,Yes,No,3.43,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Rai,14,No
+28,Female,No,Yes,4.52,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,3,No
+75,Male,No,No,6.04,Multifocal,Present,Stage I,Euthyroid,Surgery + Radiation,12,No
+72,Male,No,Yes,4.2,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,5,No
+45,Male,No,No,0.49,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,10,Yes
+42,Female,No,No,3.45,Multifocal,Present,Stage Iii,Hypothyroid,Surgery + Rai,9,No
+56,Female,No,No,3.56,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,6,Yes
+79,Male,No,No,4.62,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,3,No
+50,Female,Yes,No,3.72,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,10,Yes
+18,Female,No,No,5.0,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,9,No
+74,Female,No,No,3.97,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,6,Yes
+44,Male,No,Yes,5.37,Unifocal,Present,Stage I,Euthyroid,Surgery,4,No
+79,Male,Yes,No,2.97,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery,14,No
+74,Female,No,Yes,3.67,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,4,No
+69,Male,Yes,No,4.49,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,8,No
+30,Male,No,No,2.81,Unifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,7,No
+58,Female,Yes,No,2.55,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,1,No
+20,Male,No,No,2.74,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,6,Yes
+56,Male,No,No,2.6,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,8,No
+23,Male,No,Yes,4.13,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,3,Yes
+25,Female,Yes,No,1.3,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery,14,No
+44,Male,No,No,1.63,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery,9,Yes
+26,Male,No,No,5.74,Unifocal,Absent,Stage I,Hypothyroid,Surgery,10,No
+79,Male,No,No,2.63,Multifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,2,No
+54,Female,Yes,No,3.74,Multifocal,Present,Stage I,Euthyroid,Surgery + Rai,14,No
+50,Female,No,No,1.71,Multifocal,Present,Stage I,Hypothyroid,Surgery + Rai,6,No
+68,Male,No,No,3.61,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,12,Yes
+59,Male,No,No,2.64,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,1,No
+61,Male,Yes,No,1.62,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,12,No
+41,Female,Yes,Yes,3.45,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,11,No
+32,Male,No,No,4.92,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,2,No
+76,Male,No,No,3.37,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,13,No
+71,Female,No,No,4.7,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,5,Yes
+49,Male,No,Yes,5.78,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Radiation,1,No
+49,Female,Yes,No,4.4,Unifocal,Present,Stage Iv,Hypothyroid,Surgery + Rai,8,Yes
+41,Male,No,No,4.08,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,1,Yes
+58,Male,No,No,3.74,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,13,Yes
+69,Male,No,No,4.28,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,9,No
+66,Female,No,Yes,3.06,Multifocal,Absent,Stage I,Euthyroid,Surgery,10,Yes
+79,Female,No,No,3.17,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,11,No
+66,Female,Yes,No,4.04,Unifocal,Present,Stage I,Euthyroid,Surgery + Rai,3,No
+75,Male,No,No,2.93,Unifocal,Present,Stage I,Hypothyroid,Surgery,12,No
+69,Female,No,No,3.06,Unifocal,Present,Stage I,Euthyroid,Surgery + Rai,2,No
+29,Male,No,Yes,3.5,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,1,No
+79,Male,No,No,4.88,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Radiation,9,No
+56,Female,No,Yes,2.14,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,4,Yes
+19,Male,No,No,4.41,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,12,No
+20,Male,No,No,4.45,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,1,No
+66,Male,No,No,4.44,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery,1,No
+54,Male,No,No,2.53,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,7,No
+66,Male,Yes,No,1.47,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,2,No
+73,Female,No,No,4.17,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,7,No
+34,Male,No,No,3.73,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,12,Yes
+76,Female,No,No,4.71,Multifocal,Present,Stage I,Euthyroid,Surgery + Rai,7,No
+66,Female,No,No,2.66,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,10,No
+19,Male,No,Yes,4.41,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,14,Yes
+19,Male,No,No,4.77,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,9,Yes
+45,Male,No,No,3.39,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery,13,Yes
+71,Female,Yes,No,4.0,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,7,No
+40,Male,Yes,No,3.96,Unifocal,Present,Stage I,Euthyroid,Surgery,13,Yes
+54,Female,Yes,No,2.51,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,14,No
+49,Male,No,Yes,4.14,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,1,No
+50,Female,No,No,5.45,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,12,No
+18,Male,Yes,No,3.53,Multifocal,Absent,Stage I,Hypothyroid,Surgery,13,No
+36,Male,No,No,1.75,Multifocal,Absent,Stage I,Euthyroid,Surgery,8,No
+79,Male,No,Yes,2.68,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,8,No
+19,Female,Yes,No,1.36,Multifocal,Present,Stage Iv,Hypothyroid,Surgery + Rai,4,Yes
+70,Male,No,No,5.05,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,13,No
+61,Female,No,No,4.42,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,8,No
+43,Female,No,Yes,2.9,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,4,No
+49,Female,No,No,3.45,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,8,No
+23,Female,No,No,2.5,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,5,Yes
+49,Male,No,No,2.73,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Rai,4,No
+72,Male,No,No,3.63,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,6,Yes
+21,Male,No,No,3.59,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,2,No
+72,Female,Yes,No,5.11,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,12,No
+28,Female,No,Yes,2.67,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,2,No
+73,Male,No,No,1.69,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery,2,Yes
+76,Male,Yes,No,2.11,Multifocal,Present,Stage I,Hypothyroid,Surgery + Radiation,9,No
+34,Female,Yes,No,3.47,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,14,No
+55,Female,No,Yes,2.63,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,10,Yes
+41,Female,No,Yes,3.15,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery,3,No
+22,Male,No,No,2.96,Multifocal,Present,Stage I,Euthyroid,Surgery,10,No
+69,Male,No,No,4.69,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,4,No
+51,Male,Yes,No,2.8,Multifocal,Present,Stage I,Euthyroid,Surgery + Rai,10,No
+23,Male,No,No,3.05,Unifocal,Absent,Stage I,Hypothyroid,Surgery,12,No
+39,Male,Yes,No,4.36,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,8,No
+28,Female,No,No,2.82,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,4,No
+65,Male,No,No,4.01,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,11,No
+33,Female,No,No,3.9,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,10,No
+50,Female,No,No,3.67,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,10,Yes
+26,Female,No,Yes,2.14,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery,13,Yes
+77,Male,No,No,4.98,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,7,Yes
+76,Male,No,No,6.16,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,5,No
+23,Male,No,No,3.51,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,9,No
+33,Male,No,No,2.24,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,4,No
+46,Female,No,No,3.53,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,3,Yes
+20,Female,No,No,4.69,Unifocal,Present,Stage Iii,Euthyroid,Surgery,13,No
+37,Female,No,No,2.76,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,2,No
+77,Female,Yes,No,3.35,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,1,No
+76,Male,No,No,3.91,Unifocal,Present,Stage Ii,Hypothyroid,Surgery,11,No
+53,Male,No,No,4.94,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Rai,6,No
+36,Male,Yes,Yes,4.43,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Rai,10,Yes
+43,Male,Yes,Yes,4.48,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,2,Yes
+20,Female,Yes,No,2.99,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,8,Yes
+36,Male,No,No,3.98,Multifocal,Present,Stage I,Hypothyroid,Surgery,6,No
+37,Male,No,No,2.63,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,12,No
+49,Female,No,No,4.51,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,12,No
+24,Male,No,No,4.88,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,5,No
+69,Female,No,No,4.16,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery,13,No
+58,Male,No,No,3.06,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery,2,Yes
+50,Male,No,No,3.26,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,7,Yes
+57,Male,No,No,5.67,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,2,No
+56,Male,No,No,3.08,Multifocal,Present,Stage Iv,Hypothyroid,Surgery,13,No
+35,Female,No,No,4.76,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,14,No
+57,Male,Yes,No,3.91,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,5,No
+18,Female,No,Yes,3.1,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,2,Yes
+28,Female,No,No,1.89,Multifocal,Present,Stage Iii,Hypothyroid,Surgery,11,No
+45,Female,No,No,3.75,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,10,No
+74,Male,Yes,No,3.61,Multifocal,Present,Stage Ii,Hyperthyroid,Surgery + Rai,11,Yes
+42,Female,Yes,No,5.67,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,11,No
+67,Male,No,No,2.47,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,2,No
+40,Male,Yes,No,6.25,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,7,Yes
+48,Male,No,No,3.95,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,9,No
+50,Female,No,No,3.95,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,5,No
+59,Male,No,Yes,2.79,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,7,No
+52,Female,No,Yes,3.88,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,4,No
+24,Female,No,No,4.07,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery + Radiation,2,No
+77,Male,No,No,4.62,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,3,No
+33,Female,Yes,No,2.33,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,2,Yes
+43,Male,Yes,Yes,5.19,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,5,No
+65,Male,No,No,3.93,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,6,No
+74,Female,No,Yes,4.23,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery,7,No
+69,Female,No,No,3.23,Unifocal,Absent,Stage I,Euthyroid,Surgery,3,No
+77,Female,No,No,2.39,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,4,No
+66,Male,No,No,3.59,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,8,Yes
+19,Male,No,Yes,3.72,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,4,No
+18,Female,No,No,1.84,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,7,No
+65,Female,No,No,4.45,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Rai,12,Yes
+79,Female,No,No,4.7,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,6,No
+29,Male,No,No,2.62,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,7,Yes
+22,Female,No,No,2.27,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,1,No
+54,Male,Yes,No,3.14,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery,3,No
+49,Male,No,No,3.53,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,6,Yes
+76,Male,No,No,3.18,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery,3,No
+72,Male,No,No,3.43,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery,14,No
+26,Female,No,No,3.77,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery,14,No
+58,Male,No,No,1.86,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Radiation,7,Yes
+52,Male,No,Yes,2.0,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,9,Yes
+65,Female,No,No,4.63,Multifocal,Absent,Stage I,Euthyroid,Surgery + Rai,14,Yes
+33,Female,Yes,No,3.52,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,1,No
+20,Female,No,No,4.76,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,10,No
+37,Female,No,No,2.13,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery + Rai,13,No
+41,Female,No,No,3.53,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,6,No
+71,Female,No,No,3.76,Multifocal,Present,Stage Ii,Euthyroid,Surgery,12,No
+73,Male,No,No,2.83,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,1,No
+50,Female,No,Yes,1.64,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,1,No
+41,Male,No,No,5.6,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,14,No
+69,Female,No,Yes,5.18,Multifocal,Present,Stage Iii,Euthyroid,Surgery,8,No
+28,Male,Yes,Yes,3.04,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,9,No
+66,Male,No,No,4.11,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,2,Yes
+25,Female,No,No,2.92,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Radiation,9,No
+53,Male,No,No,2.31,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,5,No
+55,Male,No,No,5.69,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,13,No
+57,Female,No,No,1.51,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Radiation,8,No
+37,Male,No,No,3.16,Unifocal,Present,Stage Iv,Hypothyroid,Surgery + Rai,7,Yes
+79,Male,Yes,Yes,3.6,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,7,No
+52,Female,No,No,5.48,Unifocal,Present,Stage Iv,Euthyroid,Surgery,4,No
+65,Male,No,No,4.58,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery,2,No
+79,Male,Yes,No,1.49,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,5,No
+42,Female,Yes,Yes,3.5,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,14,No
+52,Male,Yes,No,3.53,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,11,No
+42,Female,No,No,3.23,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,11,No
+46,Female,No,No,4.24,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,3,Yes
+35,Female,No,No,1.81,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,14,No
+63,Male,No,No,3.01,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,9,No
+35,Female,No,No,4.07,Multifocal,Absent,Stage I,Euthyroid,Surgery + Rai,6,No
+19,Male,No,No,4.32,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Radiation,1,No
+71,Female,Yes,No,3.68,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,3,Yes
+52,Male,No,No,3.15,Multifocal,Absent,Stage I,Hypothyroid,Surgery,12,No
+33,Male,No,No,3.36,Multifocal,Present,Stage Ii,Hypothyroid,Surgery + Rai,4,Yes
+78,Male,No,No,4.39,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery,9,No
+58,Female,No,No,3.45,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,11,Yes
+53,Male,No,No,2.25,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,6,No
+50,Female,Yes,No,2.02,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,4,No
+21,Male,Yes,No,1.71,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,1,No
+50,Male,Yes,No,5.25,Unifocal,Present,Stage I,Hyperthyroid,Surgery,8,Yes
+31,Female,No,No,4.47,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Rai,14,No
+38,Female,Yes,No,3.37,Multifocal,Present,Stage I,Euthyroid,Surgery + Rai,11,No
+65,Male,No,No,2.96,Multifocal,Present,Stage Iii,Euthyroid,Surgery + Radiation,2,No
+37,Female,No,No,2.81,Unifocal,Present,Stage Iv,Euthyroid,Surgery,11,No
+73,Female,No,No,4.81,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,11,No
+25,Female,No,No,5.79,Unifocal,Absent,Stage I,Hypothyroid,Surgery,8,No
+24,Male,Yes,No,2.77,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,6,No
+20,Male,No,No,4.87,Unifocal,Present,Stage I,Euthyroid,Surgery + Rai,8,Yes
+34,Female,No,No,3.53,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,6,No
+50,Male,Yes,Yes,3.25,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,5,No
+65,Female,Yes,No,5.31,Multifocal,Present,Stage I,Euthyroid,Surgery + Radiation,5,Yes
+29,Female,No,No,3.49,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,14,No
+76,Male,No,No,3.86,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,14,No
+68,Female,No,No,3.8,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery,10,No
+39,Female,No,No,1.55,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,10,No
+72,Male,No,Yes,3.85,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery + Rai,11,Yes
+39,Female,No,No,2.82,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,8,No
+63,Male,No,No,1.79,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,7,No
+47,Female,No,No,2.88,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,8,Yes
+55,Female,No,No,2.87,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Radiation,12,No
+55,Female,No,No,4.74,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,8,Yes
+62,Female,No,Yes,2.22,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,7,No
+68,Female,No,No,2.55,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,2,No
+71,Male,No,No,3.78,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,11,No
+25,Male,No,Yes,1.91,Multifocal,Absent,Stage I,Hypothyroid,Surgery,9,Yes
+44,Female,No,No,2.71,Multifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,13,Yes
+44,Male,No,No,1.5,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,7,Yes
+51,Male,No,No,4.6,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,12,Yes
+38,Male,Yes,No,3.14,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,11,No
+47,Male,No,Yes,3.48,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,6,No
+50,Male,Yes,Yes,4.6,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery,9,No
+45,Male,No,No,2.63,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,13,No
+64,Male,No,No,3.13,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,1,No
+50,Male,No,No,2.23,Multifocal,Absent,Stage I,Euthyroid,Surgery,11,No
+22,Female,No,No,2.23,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,2,No
+77,Male,No,No,2.4,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,13,No
+78,Male,No,No,2.91,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,1,No
+65,Female,No,No,3.04,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,10,No
+36,Male,No,No,3.85,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,12,Yes
+21,Male,Yes,No,2.43,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,3,Yes
+52,Female,No,Yes,3.88,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Radiation,11,No
+66,Male,No,No,4.08,Multifocal,Present,Stage I,Hypothyroid,Surgery + Radiation,5,Yes
+34,Male,No,No,2.94,Unifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,1,No
+61,Female,Yes,No,2.53,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,4,No
+45,Male,Yes,No,3.6,Unifocal,Absent,Stage I,Euthyroid,Surgery,14,Yes
+47,Female,No,No,3.26,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,13,Yes
+46,Female,No,No,3.76,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,8,No
+63,Male,No,Yes,5.38,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,6,No
+70,Female,No,Yes,3.58,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,13,Yes
+23,Male,Yes,No,2.73,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,1,No
+52,Male,No,Yes,2.43,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,12,No
+77,Female,No,No,2.48,Unifocal,Present,Stage Iii,Hypothyroid,Surgery,1,No
+58,Female,Yes,No,1.74,Multifocal,Present,Stage Ii,Hyperthyroid,Surgery + Rai,3,Yes
+54,Female,No,No,4.62,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,14,No
+41,Male,Yes,No,0.82,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,10,Yes
+46,Male,Yes,No,4.09,Unifocal,Present,Stage I,Euthyroid,Surgery,8,No
+66,Male,Yes,No,2.46,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery,11,No
+63,Male,Yes,No,2.89,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,11,No
+70,Female,Yes,Yes,2.42,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,14,No
+48,Male,No,No,5.24,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,8,No
+52,Male,No,No,3.52,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,13,No
+77,Female,No,No,4.45,Multifocal,Absent,Stage I,Hypothyroid,Surgery,3,Yes
+50,Female,No,No,5.06,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery,7,No
+69,Male,No,Yes,3.7,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,12,No
+78,Female,No,No,2.07,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,3,Yes
+38,Male,No,No,3.24,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,4,No
+49,Male,Yes,No,2.61,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery,9,Yes
+40,Female,No,No,2.9,Multifocal,Present,Stage Ii,Euthyroid,Surgery,13,Yes
+50,Female,Yes,No,3.39,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,4,Yes
+20,Male,No,Yes,3.34,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,3,No
+35,Female,No,No,3.99,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery,5,No
+42,Male,No,Yes,4.17,Unifocal,Present,Stage Ii,Euthyroid,Surgery,7,No
+59,Male,No,No,3.34,Multifocal,Absent,Stage I,Hypothyroid,Surgery,5,No
+48,Female,No,No,3.98,Unifocal,Absent,Stage I,Euthyroid,Surgery + Rai,4,No
+71,Female,No,No,2.84,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,8,No
+75,Female,Yes,No,5.08,Unifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,4,Yes
+20,Male,No,Yes,2.82,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,2,No
+57,Female,No,No,3.45,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,10,Yes
+63,Male,No,Yes,1.73,Multifocal,Present,Stage I,Euthyroid,Surgery + Radiation,13,No
+41,Male,No,No,3.04,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,14,Yes
+67,Female,No,No,3.1,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,6,No
+49,Female,No,No,3.83,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery + Radiation,2,Yes
+64,Female,No,No,4.53,Multifocal,Present,Stage Ii,Euthyroid,Surgery,3,Yes
+39,Female,No,Yes,2.0,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,1,No
+40,Female,No,Yes,2.17,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,5,No
+19,Female,No,Yes,1.82,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Rai,9,No
+44,Male,No,No,5.08,Multifocal,Absent,Stage I,Euthyroid,Surgery + Rai,2,No
+59,Male,Yes,No,3.86,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,12,No
+19,Male,No,No,2.2,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,7,No
+50,Male,Yes,No,2.97,Multifocal,Present,Stage Ii,Hypothyroid,Surgery + Radiation,5,No
+34,Female,No,No,4.92,Unifocal,Present,Stage Ii,Euthyroid,Surgery,2,No
+57,Female,Yes,No,3.17,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,8,No
+50,Male,No,No,3.1,Multifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,11,No
+26,Male,No,No,2.56,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,13,No
+60,Female,Yes,No,2.27,Unifocal,Present,Stage Iii,Hypothyroid,Surgery,13,Yes
+71,Male,No,Yes,4.92,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,6,Yes
+65,Female,No,No,5.51,Unifocal,Absent,Stage I,Euthyroid,Surgery,4,No
+56,Female,No,No,2.32,Unifocal,Present,Stage Iv,Hypothyroid,Surgery + Radiation,13,No
+46,Female,Yes,No,5.19,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,4,Yes
+59,Female,No,Yes,3.45,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,2,No
+72,Female,No,No,4.14,Unifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,3,No
+43,Male,Yes,No,5.19,Unifocal,Absent,Stage I,Euthyroid,Surgery,7,Yes
+52,Female,Yes,Yes,3.33,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,3,No
+67,Female,No,No,3.11,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,13,No
+42,Male,No,No,4.46,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,5,No
+41,Female,No,Yes,2.17,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,10,No
+30,Female,No,Yes,4.88,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,6,No
+77,Female,No,No,3.67,Unifocal,Present,Stage I,Hypothyroid,Surgery,6,No
+75,Female,No,No,2.81,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,14,No
+24,Female,Yes,No,2.77,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,4,No
+74,Female,No,No,1.84,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,6,No
+53,Female,No,Yes,2.86,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery + Rai,3,No
+62,Female,No,No,3.18,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,7,No
+50,Female,No,No,2.23,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,7,No
+18,Female,No,Yes,3.45,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,4,Yes
+25,Female,Yes,No,4.07,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,2,Yes
+63,Male,No,No,3.24,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,11,Yes
+33,Female,Yes,No,4.3,Unifocal,Present,Stage I,Hypothyroid,Surgery + Rai,7,No
+31,Female,No,Yes,2.53,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,3,No
+29,Male,Yes,No,4.7,Unifocal,Present,Stage I,Euthyroid,Surgery + Radiation,1,No
+68,Female,Yes,No,3.65,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,2,No
+40,Male,No,No,5.35,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery + Radiation,10,No
+32,Male,No,Yes,6.4,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery,9,No
+45,Female,No,No,2.94,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,12,No
+51,Male,No,No,2.99,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,8,No
+19,Female,Yes,No,3.2,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,14,No
+49,Female,Yes,No,4.21,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery,6,No
+40,Female,No,No,5.09,Multifocal,Absent,Stage I,Euthyroid,Surgery,14,Yes
+39,Male,No,No,2.72,Unifocal,Present,Stage Iii,Euthyroid,Surgery,6,No
+68,Male,No,No,3.96,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,14,No
+42,Female,No,No,3.34,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,1,Yes
+75,Female,No,No,4.24,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,2,No
+79,Female,No,No,5.31,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,4,No
+78,Male,No,No,3.21,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,3,Yes
+39,Female,No,No,1.5,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,14,No
+75,Female,No,No,4.39,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,1,No
+75,Female,No,Yes,2.5,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery,8,No
+39,Male,No,No,3.33,Multifocal,Present,Stage Iv,Hypothyroid,Surgery + Radiation,7,No
+66,Female,No,No,4.44,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,4,No
+69,Female,No,No,3.86,Unifocal,Absent,Stage I,Euthyroid,Surgery,12,No
+59,Female,No,No,3.38,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Radiation,12,No
+23,Male,No,No,3.45,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Rai,9,No
+71,Male,No,No,4.34,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,14,No
+60,Male,No,No,3.2,Multifocal,Present,Stage Ii,Hypothyroid,Surgery,4,No
+77,Male,No,No,5.32,Multifocal,Present,Stage I,Euthyroid,Surgery,1,No
+54,Female,No,No,3.98,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery,10,No
+50,Male,No,No,2.85,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,1,No
+25,Male,No,Yes,4.78,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,1,No
+70,Female,No,Yes,4.88,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,1,No
+77,Male,No,No,3.24,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,4,Yes
+61,Female,Yes,Yes,4.93,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,1,No
+61,Male,No,No,2.83,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Radiation,2,No
+22,Female,Yes,No,3.69,Multifocal,Present,Stage I,Euthyroid,Surgery,4,No
+56,Male,No,No,4.19,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery + Rai,7,No
+21,Female,No,No,4.44,Multifocal,Present,Stage I,Euthyroid,Surgery,2,Yes
+23,Female,Yes,No,4.25,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,8,No
+62,Female,Yes,No,3.1,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,13,No
+49,Female,No,No,4.81,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,7,Yes
+69,Male,No,No,3.35,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,9,Yes
+47,Female,No,Yes,2.82,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,14,Yes
+64,Male,Yes,No,2.83,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery,6,No
+52,Male,No,Yes,5.83,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,4,No
+72,Male,No,No,2.61,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,6,No
+57,Female,No,No,5.05,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,4,No
+69,Female,No,Yes,2.14,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,7,No
+33,Female,No,No,4.09,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,9,Yes
+30,Male,Yes,No,3.86,Multifocal,Absent,Stage I,Euthyroid,Surgery + Rai,3,No
+50,Male,No,No,5.45,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery,3,No
+77,Female,No,No,2.71,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,2,No
+59,Male,No,No,2.38,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,1,No
+47,Female,Yes,Yes,3.36,Multifocal,Present,Stage Ii,Hyperthyroid,Surgery + Radiation,14,No
+36,Male,No,No,5.5,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,1,No
+34,Female,Yes,No,2.44,Unifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,13,No
+36,Male,No,Yes,3.57,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,14,Yes
+45,Male,No,No,4.64,Multifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,7,No
+75,Female,Yes,No,2.28,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,11,No
+72,Female,Yes,No,4.52,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,9,Yes
+43,Male,No,Yes,2.26,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,14,Yes
+54,Female,Yes,No,3.32,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,2,Yes
+43,Male,Yes,No,4.4,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,7,No
+70,Male,No,No,2.08,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,1,No
+79,Male,No,No,3.72,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Radiation,2,No
+40,Male,No,No,4.96,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,6,No
+26,Female,No,No,4.07,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,11,No
+29,Male,Yes,Yes,2.64,Unifocal,Present,Stage I,Hypothyroid,Surgery + Rai,5,No
+70,Male,No,No,5.32,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery,8,Yes
+18,Female,No,No,4.29,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,12,No
+75,Male,No,No,1.27,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery,11,No
+75,Female,No,No,4.54,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,2,Yes
+18,Male,No,Yes,2.81,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,1,No
+64,Male,No,No,3.74,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,7,No
+51,Male,No,No,4.71,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Radiation,6,Yes
+49,Female,No,Yes,2.84,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,8,Yes
+79,Male,No,No,1.53,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery,11,Yes
+71,Female,No,No,5.31,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,13,No
+65,Female,No,Yes,4.9,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,14,No
+42,Female,No,No,3.4,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,8,No
+57,Male,Yes,No,4.52,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,2,Yes
+62,Female,No,No,3.06,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,14,No
+70,Female,No,No,3.62,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery,8,No
+18,Female,No,No,3.33,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,6,Yes
+33,Female,No,No,3.11,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,9,No
+78,Female,No,No,3.93,Multifocal,Present,Stage Iii,Euthyroid,Surgery + Radiation,12,No
+56,Female,No,Yes,2.05,Unifocal,Present,Stage Iii,Euthyroid,Surgery,7,No
+22,Male,No,No,3.2,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,2,Yes
+39,Male,Yes,No,3.88,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,8,Yes
+46,Male,Yes,No,5.71,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,9,No
+72,Female,No,No,2.1,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,7,No
+20,Female,No,No,4.12,Multifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,4,No
+29,Female,No,No,4.26,Unifocal,Absent,Stage I,Hypothyroid,Surgery,9,No
+43,Male,No,No,1.25,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Radiation,4,No
+33,Male,No,Yes,3.99,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,12,No
+68,Female,No,Yes,4.56,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,4,No
+54,Male,Yes,No,4.21,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery,9,No
+39,Male,No,No,3.4,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,14,No
+74,Female,No,No,3.9,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,8,No
+46,Male,No,No,3.7,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,4,No
+31,Female,No,No,1.47,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery,14,No
+45,Male,No,No,3.73,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Radiation,8,No
+22,Female,No,No,3.06,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,8,Yes
+64,Male,No,Yes,2.65,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,7,No
+66,Female,No,Yes,6.48,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,10,No
+47,Male,No,No,5.0,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,13,No
+63,Male,Yes,No,2.12,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,6,No
+79,Male,No,No,3.92,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,8,No
+69,Female,Yes,Yes,5.25,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery,7,No
+22,Female,No,Yes,1.7,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Radiation,5,No
+29,Male,No,No,3.59,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery + Rai,12,Yes
+33,Female,Yes,No,3.65,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,13,No
+43,Female,No,Yes,1.97,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,13,No
+43,Female,No,No,3.96,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery + Rai,4,No
+65,Male,No,Yes,4.84,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,14,No
+38,Female,No,No,3.45,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,12,Yes
+56,Male,No,No,3.2,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery,2,No
+53,Male,Yes,Yes,6.5,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,11,No
+50,Female,No,No,1.03,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,8,No
+79,Male,Yes,No,3.93,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,9,No
+47,Female,No,No,1.81,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery,4,No
+54,Female,No,No,3.61,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,4,Yes
+40,Female,No,Yes,2.87,Multifocal,Present,Stage I,Hyperthyroid,Surgery,5,Yes
+75,Female,No,No,4.11,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery,2,No
+27,Male,Yes,No,3.35,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery,7,No
+71,Male,No,No,2.51,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,5,No
+22,Female,No,No,3.45,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,6,No
+53,Male,No,No,5.82,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,4,No
+51,Male,No,No,4.03,Multifocal,Present,Stage Ii,Hyperthyroid,Surgery,8,No
+69,Male,No,Yes,1.46,Unifocal,Present,Stage I,Euthyroid,Surgery,8,No
+48,Male,No,Yes,4.16,Multifocal,Present,Stage Ii,Hyperthyroid,Surgery + Radiation,12,No
+27,Male,No,No,3.27,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery + Rai,5,Yes
+75,Male,Yes,No,3.51,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,12,No
+36,Female,No,No,4.48,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,6,No
+75,Female,No,No,4.92,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Rai,3,Yes
+49,Female,No,No,2.47,Multifocal,Absent,Stage I,Euthyroid,Surgery,1,No
+18,Male,No,Yes,3.46,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,9,No
+73,Male,No,No,2.84,Unifocal,Present,Stage Ii,Euthyroid,Surgery,9,No
+22,Male,No,No,4.22,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery + Radiation,3,No
+62,Female,No,No,3.22,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,4,No
+21,Female,No,No,3.54,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,13,No
+33,Male,No,No,3.18,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,7,No
+41,Male,No,No,3.37,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,2,No
+33,Male,No,No,5.55,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,12,No
+72,Female,No,No,6.37,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery,3,No
+19,Female,Yes,No,3.95,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery,6,Yes
+66,Female,Yes,No,3.38,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,11,No
+45,Female,No,No,1.59,Multifocal,Present,Stage I,Euthyroid,Surgery,8,No
+49,Female,No,No,2.59,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,1,No
+44,Male,No,No,3.35,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,4,No
+37,Female,No,No,2.64,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery,1,No
+41,Male,Yes,Yes,2.77,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,2,No
+29,Female,No,No,5.39,Multifocal,Present,Stage Iii,Euthyroid,Surgery + Radiation,8,Yes
+67,Female,No,No,3.53,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,6,No
+52,Female,No,No,3.64,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,9,Yes
+77,Female,No,No,2.69,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,2,No
+50,Female,No,No,4.91,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,3,No
+50,Female,Yes,No,3.24,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,9,No
+78,Female,No,Yes,2.87,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,9,No
+68,Male,No,No,1.6,Multifocal,Absent,Stage I,Euthyroid,Surgery,13,No
+60,Male,No,No,3.45,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,6,Yes
+54,Male,No,No,2.84,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,14,No
+29,Male,Yes,No,5.52,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,3,No
+50,Female,No,No,5.71,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,5,No
+18,Male,No,Yes,2.02,Unifocal,Present,Stage Iv,Hypothyroid,Surgery + Rai,2,No
+50,Female,No,No,2.15,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,7,No
+57,Male,No,No,3.17,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,10,No
+27,Male,Yes,Yes,2.52,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,11,Yes
+60,Female,No,Yes,3.76,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Rai,8,No
+61,Female,Yes,Yes,3.11,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery + Radiation,6,No
+46,Female,No,No,3.84,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,8,Yes
+30,Female,No,Yes,4.72,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,2,No
+29,Female,No,No,2.22,Multifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,3,No
+48,Male,No,No,4.69,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,7,No
+63,Female,Yes,No,2.63,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,10,No
+19,Female,No,No,6.08,Multifocal,Absent,Stage I,Euthyroid,Surgery + Rai,12,No
+78,Female,No,No,5.45,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery,1,Yes
+68,Male,No,No,3.36,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,7,Yes
+67,Female,Yes,No,2.34,Multifocal,Present,Stage Ii,Hypothyroid,Surgery,6,No
+52,Male,No,No,2.11,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,8,Yes
+40,Male,No,No,4.55,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,7,No
+34,Male,No,No,3.46,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,4,No
+43,Female,No,No,4.61,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery,3,No
+25,Female,No,No,6.15,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,3,No
+46,Female,No,Yes,2.58,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,4,No
+43,Female,Yes,Yes,2.02,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,9,No
+27,Male,No,No,3.73,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery,9,No
+43,Male,Yes,No,4.87,Multifocal,Present,Stage I,Hypothyroid,Surgery + Radiation,13,No
+79,Male,No,No,2.37,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,2,No
+51,Female,No,No,3.54,Multifocal,Present,Stage I,Euthyroid,Surgery,5,Yes
+68,Male,Yes,No,5.14,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Radiation,1,No
+58,Female,No,No,1.54,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,4,No
+24,Female,Yes,No,3.78,Multifocal,Absent,Stage I,Euthyroid,Surgery + Rai,2,No
+21,Male,No,No,2.85,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,8,No
+75,Female,No,No,3.65,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery,4,No
+70,Female,Yes,No,4.35,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery,5,No
+67,Female,No,Yes,3.76,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,11,Yes
+50,Male,No,Yes,2.29,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery,4,No
+28,Male,No,No,2.9,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery,5,No
+46,Male,Yes,No,5.21,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,5,No
+73,Female,No,No,3.89,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,5,No
+53,Male,No,Yes,4.51,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery,11,Yes
+42,Male,No,No,3.8,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery,3,Yes
+38,Female,Yes,No,4.47,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery,7,No
+78,Female,Yes,No,3.02,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,3,Yes
+74,Female,No,No,2.58,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,2,Yes
+53,Male,No,No,4.42,Multifocal,Present,Stage I,Euthyroid,Surgery + Rai,3,No
+27,Female,Yes,No,4.85,Unifocal,Absent,Stage I,Euthyroid,Surgery,11,No
+54,Male,No,No,2.4,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,3,No
+26,Male,No,Yes,2.81,Unifocal,Absent,Stage I,Euthyroid,Surgery,8,No
+41,Male,No,Yes,3.45,Multifocal,Present,Stage I,Euthyroid,Surgery + Radiation,4,Yes
+52,Female,No,No,5.44,Unifocal,Present,Stage Ii,Hypothyroid,Surgery + Rai,3,No
+66,Male,No,No,4.18,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,10,No
+52,Female,No,No,1.91,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,5,No
+65,Female,No,No,3.39,Multifocal,Present,Stage Iii,Euthyroid,Surgery + Radiation,4,No
+53,Male,Yes,No,3.2,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,9,No
+50,Female,No,No,2.09,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,8,No
+66,Male,No,No,3.37,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,11,Yes
+56,Female,No,No,3.15,Unifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,7,Yes
+49,Male,No,No,3.07,Multifocal,Present,Stage Iii,Hypothyroid,Surgery,8,No
+41,Female,No,No,3.01,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,13,Yes
+40,Male,Yes,No,5.27,Multifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,5,No
+79,Male,No,No,3.06,Unifocal,Present,Stage Iv,Hypothyroid,Surgery + Radiation,4,No
+49,Female,No,Yes,3.56,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,7,Yes
+54,Male,No,No,3.43,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,1,No
+29,Female,No,No,2.89,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery,6,Yes
+66,Male,No,Yes,3.6,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,8,No
+72,Female,Yes,No,3.58,Unifocal,Present,Stage I,Hypothyroid,Surgery + Rai,7,No
+30,Male,No,No,3.6,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Radiation,2,No
+40,Female,Yes,Yes,2.47,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,14,No
+42,Female,No,No,3.25,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,13,Yes
+52,Male,No,No,4.41,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,14,No
+58,Male,No,Yes,3.28,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,7,No
+47,Male,No,No,3.69,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,13,No
+34,Female,No,No,3.7,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery + Radiation,6,No
+66,Male,Yes,Yes,4.0,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,13,No
+79,Female,No,No,4.17,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,5,No
+37,Male,No,No,3.29,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery,4,No
+65,Male,No,Yes,2.41,Unifocal,Present,Stage Ii,Hypothyroid,Surgery + Rai,1,Yes
+42,Female,No,Yes,2.04,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,13,No
+39,Female,Yes,No,4.72,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,2,No
+30,Male,No,No,4.42,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,7,No
+76,Male,Yes,No,4.28,Multifocal,Present,Stage I,Hyperthyroid,Surgery,10,Yes
+36,Male,No,No,4.47,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,3,No
+66,Female,No,No,3.31,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,5,Yes
+53,Female,Yes,No,2.75,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,8,No
+29,Female,No,No,2.32,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,13,No
+78,Female,Yes,No,2.19,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,13,No
+58,Female,No,No,4.95,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Rai,8,No
+36,Female,No,Yes,2.91,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery,6,Yes
+29,Female,Yes,Yes,3.45,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery,5,Yes
+26,Male,No,No,3.28,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,13,No
+24,Male,Yes,No,2.69,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,2,Yes
+45,Male,Yes,No,2.19,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,9,No
+31,Male,No,No,2.79,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery + Rai,1,Yes
+48,Female,No,No,5.2,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery,11,No
+69,Male,Yes,No,2.2,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery,2,No
+36,Male,No,No,6.04,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,13,No
+75,Male,No,No,2.49,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,1,No
+64,Female,No,No,3.45,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,12,No
+33,Male,No,No,3.33,Multifocal,Present,Stage Ii,Hyperthyroid,Surgery + Radiation,4,No
+70,Male,No,No,3.12,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,4,No
+22,Female,No,No,1.97,Unifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,5,No
+52,Male,No,No,3.38,Multifocal,Absent,Stage I,Euthyroid,Surgery,5,No
+29,Male,No,No,2.11,Unifocal,Present,Stage I,Euthyroid,Surgery + Rai,8,No
+42,Female,No,No,1.48,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,11,No
+69,Female,No,Yes,3.64,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,11,Yes
+76,Male,Yes,No,2.74,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,3,No
+38,Female,No,No,5.52,Unifocal,Present,Stage Iv,Euthyroid,Surgery + Radiation,6,No
+53,Female,No,No,4.7,Multifocal,Absent,Stage I,Hypothyroid,Surgery,12,Yes
+70,Female,No,No,5.54,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,13,Yes
+40,Female,No,No,2.68,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,12,No
+33,Female,No,No,3.66,Multifocal,Present,Stage Ii,Hypothyroid,Surgery + Radiation,3,No
+56,Female,Yes,No,3.16,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery,2,No
+62,Male,No,No,3.62,Unifocal,Present,Stage Iii,Euthyroid,Surgery,8,No
+70,Male,No,No,3.68,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,1,No
+59,Male,No,No,3.45,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,9,Yes
+75,Female,No,Yes,3.58,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,11,No
+31,Female,No,No,3.81,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,12,Yes
+48,Female,No,No,4.08,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,10,Yes
+75,Male,Yes,Yes,5.11,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,13,No
+50,Female,No,No,3.94,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,12,Yes
+52,Male,No,No,3.34,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,11,Yes
+40,Female,Yes,Yes,4.83,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,4,No
+46,Male,No,No,0.67,Multifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,3,No
+60,Female,No,No,2.88,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,6,No
+28,Female,No,No,2.58,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,9,No
+35,Male,No,No,3.46,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery,9,No
+64,Female,No,Yes,0.86,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,4,Yes
+29,Female,Yes,No,5.08,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,10,Yes
+26,Female,No,Yes,3.2,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,5,No
+27,Female,No,No,3.88,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,11,Yes
+75,Female,Yes,No,3.77,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery,13,No
+61,Male,No,No,5.01,Multifocal,Present,Stage Iii,Euthyroid,Surgery,9,Yes
+34,Male,No,Yes,1.27,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,2,No
+78,Female,No,No,3.63,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,2,No
+55,Female,No,No,4.88,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,5,No
+24,Male,Yes,No,3.38,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Rai,1,No
+63,Female,No,No,2.36,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,8,No
+30,Male,No,No,2.78,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery,5,No
+57,Female,No,No,3.03,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,12,No
+59,Male,Yes,No,2.63,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,10,No
+26,Female,No,No,3.32,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery,2,Yes
+67,Female,No,Yes,5.31,Unifocal,Present,Stage Iv,Euthyroid,Surgery + Radiation,12,Yes
+44,Male,No,No,2.78,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,9,No
+75,Female,Yes,No,2.91,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,2,Yes
+19,Male,No,No,4.05,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,7,No
+22,Female,No,No,3.29,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,8,Yes
+46,Female,No,Yes,1.9,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,14,No
+54,Female,No,No,3.43,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,6,Yes
+55,Female,No,Yes,3.38,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,14,No
+36,Female,No,Yes,4.67,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,11,Yes
+25,Male,Yes,No,2.33,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Radiation,7,Yes
+65,Male,No,Yes,4.68,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,11,Yes
+62,Female,No,No,3.38,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,1,No
+18,Female,No,Yes,2.17,Multifocal,Present,Stage I,Euthyroid,Surgery + Rai,4,Yes
+39,Female,Yes,No,1.93,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,13,No
+69,Female,Yes,No,5.82,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,7,Yes
+34,Male,No,No,3.31,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,1,Yes
+24,Female,No,No,4.62,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,13,No
+42,Male,No,No,1.45,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Radiation,1,No
+21,Male,No,No,4.57,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,6,No
+53,Male,No,No,3.19,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,4,No
+23,Male,Yes,No,3.13,Multifocal,Present,Stage Iii,Euthyroid,Surgery + Radiation,3,No
+77,Male,Yes,No,4.38,Multifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,12,No
+48,Female,No,No,4.31,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,5,No
+36,Male,No,No,3.72,Multifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,9,No
+50,Male,No,No,3.51,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,10,No
+61,Male,No,No,4.17,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,10,No
+71,Male,No,No,1.41,Multifocal,Present,Stage I,Euthyroid,Surgery + Rai,12,Yes
+56,Male,Yes,No,3.05,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,14,Yes
+44,Male,No,No,1.52,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,14,No
+27,Female,No,No,4.23,Multifocal,Present,Stage I,Hypothyroid,Surgery + Rai,12,No
+43,Female,No,No,2.69,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,11,No
+36,Female,No,Yes,1.61,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,10,Yes
+56,Female,No,No,2.55,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,3,No
+50,Male,No,No,3.68,Unifocal,Absent,Stage I,Euthyroid,Surgery + Rai,5,Yes
+20,Female,No,No,3.25,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,10,No
+62,Female,No,No,3.45,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,5,Yes
+30,Female,No,No,1.45,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery,9,No
+67,Male,Yes,No,3.59,Multifocal,Present,Stage Iii,Hypothyroid,Surgery + Rai,11,No
+45,Male,Yes,No,2.8,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,12,Yes
+79,Male,No,No,3.19,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,10,No
+75,Male,No,No,3.31,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,11,No
+37,Female,Yes,No,4.02,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,4,Yes
+45,Female,No,No,4.52,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery + Radiation,1,No
+25,Female,Yes,No,3.68,Multifocal,Absent,Stage I,Euthyroid,Surgery,10,No
+78,Female,No,No,3.12,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,5,No
+58,Female,No,Yes,3.53,Multifocal,Present,Stage I,Euthyroid,Surgery + Rai,1,Yes
+56,Female,No,No,3.09,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,6,No
+18,Female,No,Yes,1.53,Multifocal,Present,Stage I,Euthyroid,Surgery + Rai,12,No
+20,Male,No,No,4.81,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,10,No
+30,Male,Yes,No,4.58,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,10,No
+45,Male,No,No,5.89,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,7,No
+79,Female,No,No,6.24,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,1,Yes
+74,Female,No,No,2.09,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,10,Yes
+77,Male,No,No,3.1,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,4,No
+66,Male,Yes,No,6.51,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,9,No
+42,Male,No,No,3.45,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,13,Yes
+73,Male,No,No,3.79,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,1,Yes
+50,Male,No,No,1.67,Multifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,9,No
+55,Male,No,No,3.68,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,8,No
+70,Female,No,No,5.82,Unifocal,Present,Stage Ii,Hypothyroid,Surgery,5,Yes
+23,Male,No,Yes,5.04,Unifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,6,Yes
+75,Male,Yes,No,2.77,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,7,No
+61,Male,Yes,No,3.02,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,4,No
+62,Female,Yes,No,2.14,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,14,No
+49,Female,No,Yes,2.48,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,14,No
+62,Male,No,No,1.21,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,6,No
+78,Female,No,Yes,3.4,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,7,No
+64,Female,Yes,No,5.31,Multifocal,Present,Stage Iii,Hypothyroid,Surgery + Rai,11,No
+38,Male,No,No,3.93,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,6,Yes
+33,Male,No,No,5.14,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,11,No
+71,Male,No,No,4.79,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,13,No
+38,Male,No,No,2.84,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,12,No
+28,Female,No,Yes,2.59,Multifocal,Present,Stage Ii,Hypothyroid,Surgery,6,No
+77,Male,No,Yes,2.63,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,2,No
+54,Female,Yes,No,1.44,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,5,No
+53,Female,No,No,3.54,Unifocal,Present,Stage Iii,Euthyroid,Surgery,3,Yes
+36,Female,Yes,Yes,4.21,Unifocal,Absent,Stage I,Euthyroid,Surgery,4,No
+37,Male,Yes,No,3.59,Multifocal,Present,Stage Ii,Hypothyroid,Surgery,1,No
+74,Female,No,Yes,4.07,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,12,No
+35,Female,No,Yes,4.77,Unifocal,Present,Stage I,Euthyroid,Surgery + Rai,12,No
+64,Female,No,No,3.74,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,6,No
+58,Female,Yes,No,5.46,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,6,Yes
+66,Male,No,Yes,4.25,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,7,Yes
+31,Female,No,No,2.59,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,11,No
+32,Female,No,Yes,3.21,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery,8,No
+48,Female,No,No,0.79,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,3,No
+18,Female,No,No,2.42,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,14,No
+70,Female,No,Yes,3.04,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Rai,6,No
+71,Male,No,No,4.16,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,10,No
+71,Male,No,No,2.6,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,2,Yes
+20,Female,No,No,2.0,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,13,No
+33,Male,No,No,1.23,Multifocal,Present,Stage I,Euthyroid,Surgery,14,No
+40,Female,No,Yes,2.78,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,9,No
+74,Male,Yes,Yes,3.45,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,2,Yes
+28,Male,Yes,No,3.83,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,3,Yes
+29,Male,Yes,No,4.63,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,12,No
+27,Female,No,Yes,2.42,Multifocal,Present,Stage Iv,Hypothyroid,Surgery,13,No
+49,Male,No,No,1.61,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,10,No
+33,Female,Yes,Yes,2.03,Multifocal,Present,Stage Iv,Hypothyroid,Surgery + Rai,12,Yes
+50,Male,No,No,3.38,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,12,No
+55,Female,No,No,1.11,Unifocal,Absent,Stage Iv,Euthyroid,Surgery,2,No
+29,Male,Yes,Yes,2.29,Unifocal,Present,Stage Iii,Euthyroid,Surgery,9,No
+41,Female,No,No,2.8,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,1,No
+45,Female,No,No,1.91,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,5,Yes
+70,Female,Yes,No,3.45,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,1,No
+25,Male,No,No,3.85,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Rai,5,No
+75,Female,No,No,3.56,Unifocal,Present,Stage Ii,Hypothyroid,Surgery + Radiation,8,No
+45,Female,No,No,4.43,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,8,No
+53,Male,No,No,2.17,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery,11,No
+43,Male,No,No,4.41,Unifocal,Absent,Stage I,Euthyroid,Surgery,8,Yes
+25,Male,Yes,No,5.34,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery + Radiation,2,No
+75,Female,Yes,No,3.81,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,8,No
+77,Female,No,Yes,2.77,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,12,No
+67,Female,Yes,No,3.45,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,5,Yes
+45,Male,Yes,No,2.71,Multifocal,Present,Stage Iv,Hypothyroid,Surgery + Radiation,1,No
+45,Male,No,No,2.51,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,7,Yes
+54,Female,No,No,4.32,Unifocal,Present,Stage Ii,Hypothyroid,Surgery,13,Yes
+58,Female,No,No,3.33,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,6,No
+53,Female,No,No,4.95,Unifocal,Present,Stage I,Hypothyroid,Surgery,5,No
+44,Male,Yes,No,2.97,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,1,No
+71,Female,No,Yes,3.09,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,14,No
+34,Male,Yes,No,2.82,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Radiation,14,No
+26,Male,No,No,2.16,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,1,No
+50,Female,No,No,3.45,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,6,No
+70,Female,No,Yes,6.12,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,10,Yes
+37,Female,No,No,3.04,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,12,No
+30,Male,No,No,2.68,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,7,No
+45,Male,No,Yes,2.61,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,10,No
+65,Female,No,No,2.68,Multifocal,Present,Stage Iii,Hypothyroid,Surgery + Rai,10,No
+46,Female,No,No,5.48,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,1,Yes
+30,Male,Yes,No,2.64,Unifocal,Present,Stage Iii,Hypothyroid,Surgery,9,No
+63,Male,No,No,2.8,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,4,Yes
+50,Male,No,No,2.01,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,5,No
+78,Female,Yes,Yes,3.85,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,2,Yes
+23,Male,No,No,3.42,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Radiation,14,No
+35,Male,No,No,2.14,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,12,No
+68,Male,No,No,2.43,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,10,No
+22,Male,No,Yes,5.34,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,13,No
+64,Male,No,Yes,3.54,Unifocal,Present,Stage I,Hypothyroid,Surgery,8,No
+42,Female,No,No,3.62,Multifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,14,No
+19,Male,No,No,3.63,Multifocal,Present,Stage I,Euthyroid,Surgery + Radiation,2,No
+50,Female,Yes,No,5.17,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,3,No
+73,Male,No,No,2.25,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Rai,12,No
+47,Female,No,Yes,3.02,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,9,No
+67,Female,Yes,Yes,3.3,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery,2,No
+76,Female,No,No,1.43,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,14,Yes
+62,Female,No,No,2.4,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,6,No
+22,Male,Yes,Yes,4.76,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,12,No
+72,Male,No,No,4.41,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,4,No
+73,Female,No,No,4.62,Unifocal,Present,Stage Iv,Hypothyroid,Surgery + Rai,7,No
+50,Female,No,No,2.79,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery + Radiation,14,No
+71,Female,Yes,No,2.94,Unifocal,Present,Stage I,Hypothyroid,Surgery + Rai,14,Yes
+18,Female,Yes,No,1.35,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,6,No
+35,Female,No,No,4.62,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,10,Yes
+49,Female,No,No,4.82,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,14,No
+64,Male,Yes,No,4.8,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,9,Yes
+66,Female,No,No,5.42,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,14,No
+28,Female,Yes,No,4.01,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery,9,No
+38,Male,No,No,5.37,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,10,Yes
+43,Female,No,No,3.26,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Rai,4,No
+42,Male,No,No,1.38,Unifocal,Absent,Stage I,Hyperthyroid,Surgery,1,No
+39,Female,Yes,Yes,4.53,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,2,No
+76,Male,No,No,1.34,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,8,No
+44,Female,Yes,No,3.7,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,14,Yes
+66,Female,No,No,4.65,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,10,Yes
+30,Male,No,No,3.89,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery,8,No
+50,Female,Yes,Yes,6.23,Unifocal,Absent,Stage I,Euthyroid,Surgery + Rai,14,No
+50,Female,No,No,1.14,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,2,No
+58,Male,No,Yes,3.4,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Radiation,4,Yes
+52,Male,No,No,3.52,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,1,Yes
+18,Male,No,No,3.45,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,7,No
+38,Male,Yes,No,2.12,Unifocal,Absent,Stage I,Hypothyroid,Surgery,4,Yes
+65,Female,No,No,2.49,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Radiation,11,No
+72,Male,No,No,2.18,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,14,Yes
+23,Female,No,No,3.37,Unifocal,Absent,Stage I,Euthyroid,Surgery,8,Yes
+45,Female,No,No,2.78,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,9,No
+34,Female,No,No,3.88,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,12,No
+22,Female,No,No,4.28,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,9,No
+48,Male,No,No,4.2,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,3,Yes
+22,Female,No,No,3.01,Unifocal,Absent,Stage I,Euthyroid,Surgery,5,No
+55,Male,No,No,3.84,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,6,No
+20,Female,No,No,4.74,Unifocal,Absent,Stage I,Hypothyroid,Surgery,6,No
+70,Female,No,No,4.03,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Rai,10,No
+40,Female,No,No,5.73,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,8,No
+54,Male,No,No,4.68,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,6,No
+70,Male,Yes,No,5.56,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery,6,No
+54,Male,Yes,No,0.51,Unifocal,Present,Stage I,Hypothyroid,Surgery + Rai,4,No
+27,Male,No,No,3.62,Unifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,7,Yes
+27,Male,Yes,No,3.11,Multifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,14,No
+36,Male,No,Yes,3.35,Unifocal,Present,Stage Iv,Hypothyroid,Surgery,14,No
+34,Female,Yes,No,2.53,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,8,No
+38,Male,Yes,Yes,3.98,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,3,No
+31,Male,Yes,No,1.33,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,7,No
+26,Male,Yes,No,3.98,Multifocal,Present,Stage Iv,Euthyroid,Surgery + Rai,3,No
+63,Female,No,No,2.57,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,8,No
+18,Female,No,No,2.9,Unifocal,Present,Stage Ii,Euthyroid,Surgery,1,No
+68,Male,No,No,4.03,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,1,No
+62,Female,No,No,3.59,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,14,No
+30,Female,No,No,4.76,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,6,No
+21,Female,No,Yes,2.34,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,10,Yes
+79,Male,No,Yes,3.4,Multifocal,Present,Stage Iv,Euthyroid,Surgery,9,No
+18,Male,No,No,4.57,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,12,Yes
+66,Male,No,No,3.93,Multifocal,Present,Stage Ii,Hyperthyroid,Surgery,14,No
+57,Female,No,No,4.01,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,4,No
+49,Male,No,No,4.83,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,6,No
+51,Female,No,No,3.01,Unifocal,Present,Stage I,Hypothyroid,Surgery,12,No
+45,Female,No,No,2.76,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,5,No
+48,Female,No,No,4.19,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,12,No
+25,Female,No,No,3.32,Multifocal,Present,Stage Iv,Hypothyroid,Surgery + Rai,1,No
+56,Male,No,No,4.85,Unifocal,Present,Stage Ii,Hypothyroid,Surgery,6,No
+43,Male,No,No,3.94,Unifocal,Present,Stage Iii,Hypothyroid,Surgery + Radiation,9,Yes
+75,Male,Yes,No,2.75,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,12,No
+51,Male,No,No,3.91,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,3,No
+71,Female,Yes,No,2.42,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery,11,Yes
+50,Male,No,No,4.64,Unifocal,Present,Stage I,Hypothyroid,Surgery + Radiation,3,No
+20,Female,No,No,1.82,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,14,No
+76,Female,Yes,No,4.97,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,2,No
+67,Female,Yes,No,3.89,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,13,No
+29,Male,Yes,No,3.3,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,4,No
+18,Female,No,Yes,4.42,Multifocal,Present,Stage Iii,Euthyroid,Surgery,10,No
+71,Male,No,Yes,4.11,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,3,Yes
+61,Female,No,No,5.1,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,12,No
+22,Female,No,No,5.09,Multifocal,Present,Stage Ii,Hyperthyroid,Surgery + Rai,2,No
+47,Female,No,Yes,3.92,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,1,No
+47,Male,No,No,2.45,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,3,Yes
+76,Female,No,No,2.85,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,10,Yes
+74,Male,No,No,3.41,Unifocal,Present,Stage Ii,Hypothyroid,Surgery + Radiation,6,Yes
+34,Male,No,No,4.8,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,9,No
+65,Male,Yes,No,2.95,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,11,No
+64,Male,No,No,3.05,Multifocal,Absent,Stage I,Hyperthyroid,Surgery,5,Yes
+40,Male,No,Yes,5.72,Unifocal,Absent,Stage I,Hypothyroid,Surgery,3,No
+32,Male,No,Yes,3.37,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery + Rai,14,No
+54,Female,No,No,2.74,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery,5,No
+38,Female,Yes,Yes,4.43,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,5,No
+31,Female,Yes,No,3.43,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Rai,5,Yes
+19,Male,No,No,1.83,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,12,No
+50,Male,Yes,No,4.75,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,12,Yes
+68,Female,No,Yes,2.6,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Rai,7,No
+50,Male,No,No,3.55,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,5,No
+55,Male,Yes,No,3.42,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,7,No
+77,Female,No,No,3.78,Multifocal,Present,Stage Iv,Hypothyroid,Surgery,9,No
+51,Male,Yes,Yes,0.87,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,5,No
+55,Female,No,No,3.1,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,2,No
+67,Female,No,No,4.85,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,5,No
+51,Male,Yes,No,5.02,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Rai,8,Yes
+35,Male,Yes,No,2.31,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,12,No
+47,Female,No,Yes,4.6,Multifocal,Present,Stage Ii,Euthyroid,Surgery,4,No
+32,Female,No,Yes,2.59,Unifocal,Present,Stage Ii,Hypothyroid,Surgery + Radiation,2,No
+44,Male,Yes,No,3.05,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Rai,10,No
+68,Female,No,No,3.11,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,3,No
+51,Male,No,No,3.63,Unifocal,Present,Stage Ii,Hypothyroid,Surgery,9,No
+69,Female,No,No,4.7,Multifocal,Present,Stage Ii,Hypothyroid,Surgery + Rai,9,No
+74,Female,No,Yes,3.82,Unifocal,Present,Stage I,Euthyroid,Surgery + Radiation,8,No
+55,Male,No,No,3.35,Unifocal,Present,Stage Iv,Hyperthyroid,Surgery + Radiation,8,Yes
+50,Male,No,No,4.66,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,8,No
+41,Male,No,No,2.54,Unifocal,Present,Stage Ii,Hypothyroid,Surgery + Radiation,8,No
+32,Male,No,No,3.41,Unifocal,Present,Stage I,Hyperthyroid,Surgery,8,No
+77,Male,Yes,No,4.69,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,1,No
+47,Female,No,No,4.14,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,6,No
+72,Male,No,No,2.94,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,12,No
+59,Female,No,No,1.68,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery,9,No
+68,Female,No,No,3.87,Unifocal,Present,Stage I,Euthyroid,Surgery + Radiation,8,Yes
+34,Female,No,No,1.61,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,3,No
+22,Female,No,Yes,3.24,Multifocal,Present,Stage Iv,Euthyroid,Surgery,11,No
+46,Male,No,No,4.91,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,1,Yes
+50,Female,No,No,4.22,Unifocal,Absent,Stage I,Euthyroid,Surgery + Rai,2,No
+27,Female,Yes,No,1.07,Multifocal,Present,Stage Iv,Hyperthyroid,Surgery + Rai,11,No
+73,Male,No,No,3.74,Multifocal,Absent,Stage Ii,Euthyroid,Surgery,2,No
+34,Male,No,No,3.12,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,7,Yes
+27,Female,Yes,Yes,1.97,Multifocal,Absent,Stage I,Euthyroid,Surgery + Rai,12,Yes
+34,Male,No,No,3.9,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,6,No
+50,Male,No,No,2.91,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Rai,11,Yes
+37,Male,No,No,2.92,Multifocal,Present,Stage Ii,Hypothyroid,Surgery + Rai,2,No
+41,Male,Yes,No,3.65,Multifocal,Present,Stage Ii,Hyperthyroid,Surgery + Rai,8,Yes
+22,Female,No,No,2.75,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery,9,No
+51,Female,No,Yes,3.61,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery,7,Yes
+23,Female,No,Yes,2.79,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Rai,4,No
+70,Male,No,No,2.85,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,13,No
+19,Male,No,No,4.69,Multifocal,Absent,Stage Iii,Euthyroid,Surgery,13,Yes
+30,Female,Yes,No,4.81,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,1,No
+79,Male,No,Yes,1.45,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery,4,No
+60,Male,No,No,4.4,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,4,No
+60,Female,No,No,5.18,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery,8,No
+50,Male,No,No,5.37,Unifocal,Absent,Stage Iii,Hyperthyroid,Surgery + Radiation,4,Yes
+28,Female,No,Yes,3.45,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,4,Yes
+68,Male,No,Yes,2.23,Multifocal,Present,Stage Ii,Hypothyroid,Surgery,13,No
+64,Male,No,No,4.26,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,2,No
+74,Male,No,No,2.46,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,12,No
+40,Female,No,No,3.45,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,10,No
+72,Female,No,Yes,3.96,Multifocal,Absent,Stage I,Euthyroid,Surgery,7,No
+33,Female,No,No,2.53,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,4,Yes
+48,Female,No,No,2.12,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Rai,11,No
+28,Male,No,No,4.06,Unifocal,Absent,Stage Ii,Euthyroid,Surgery,6,No
+71,Female,No,No,5.74,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,3,No
+33,Female,Yes,No,4.99,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,7,No
+25,Female,No,Yes,4.35,Multifocal,Present,Stage Iii,Euthyroid,Surgery + Rai,6,No
+21,Male,No,No,4.68,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,3,No
+57,Female,No,No,4.27,Multifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,4,No
+21,Male,No,No,4.04,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Rai,10,No
+73,Male,No,No,4.58,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,14,No
+42,Female,No,No,1.86,Unifocal,Absent,Stage Iv,Euthyroid,Surgery + Radiation,5,Yes
+20,Female,No,Yes,3.74,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Radiation,9,Yes
+49,Male,No,No,3.4,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,14,No
+20,Male,No,Yes,3.59,Unifocal,Absent,Stage Iii,Euthyroid,Surgery,6,No
+44,Female,No,Yes,2.95,Unifocal,Present,Stage I,Hypothyroid,Surgery + Rai,13,No
+46,Female,Yes,No,4.12,Unifocal,Absent,Stage Iv,Hyperthyroid,Surgery + Radiation,4,No
+49,Female,No,No,2.52,Multifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,11,No
+67,Female,No,No,2.86,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Radiation,11,No
+78,Female,No,No,2.72,Unifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,7,No
+75,Male,Yes,No,4.54,Multifocal,Present,Stage I,Hyperthyroid,Surgery,2,No
+68,Female,No,No,3.49,Multifocal,Present,Stage Iv,Hypothyroid,Surgery,4,Yes
+36,Male,Yes,No,2.95,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,5,Yes
+38,Male,No,No,3.05,Unifocal,Present,Stage Iii,Euthyroid,Surgery + Radiation,4,No
+22,Female,No,No,3.5,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Rai,4,No
+35,Male,No,No,5.45,Unifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,11,Yes
+45,Male,Yes,No,2.02,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery + Rai,13,Yes
+59,Female,No,No,4.31,Multifocal,Present,Stage Iii,Hyperthyroid,Surgery + Radiation,9,No
+78,Female,No,No,4.07,Unifocal,Present,Stage I,Hypothyroid,Surgery,14,Yes
+39,Female,No,Yes,2.44,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery,11,No
+38,Female,No,No,5.26,Multifocal,Absent,Stage I,Hypothyroid,Surgery + Radiation,13,No
+23,Female,Yes,Yes,4.15,Multifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,2,Yes
+18,Female,No,No,2.89,Multifocal,Absent,Stage Iv,Euthyroid,Surgery + Rai,6,No
+22,Male,No,No,1.27,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,14,Yes
+58,Female,No,No,3.77,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,8,No
+29,Male,Yes,No,3.45,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Radiation,8,Yes
+43,Female,No,No,3.45,Unifocal,Absent,Stage Ii,Hyperthyroid,Surgery,11,Yes
+63,Female,No,No,3.45,Unifocal,Present,Stage I,Hypothyroid,Surgery,7,Yes
+51,Female,No,No,4.54,Multifocal,Present,Stage I,Hypothyroid,Surgery + Radiation,10,Yes
+66,Male,Yes,No,1.15,Multifocal,Absent,Stage Iv,Hyperthyroid,Surgery,11,Yes
+31,Male,No,Yes,3.88,Unifocal,Absent,Stage Iii,Euthyroid,Surgery + Rai,4,No
+43,Female,Yes,Yes,3.28,Unifocal,Present,Stage Ii,Hyperthyroid,Surgery + Rai,7,No
+62,Male,No,No,4.1,Unifocal,Present,Stage I,Hyperthyroid,Surgery + Radiation,13,No
+44,Male,No,No,3.15,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,10,No
+26,Male,No,No,3.85,Unifocal,Present,Stage Ii,Euthyroid,Surgery + Radiation,6,No
+43,Female,No,No,2.61,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Rai,11,No
+74,Female,No,Yes,3.44,Multifocal,Absent,Stage I,Euthyroid,Surgery + Radiation,6,No
+64,Male,No,Yes,4.09,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Rai,2,No
+74,Male,No,No,3.68,Unifocal,Absent,Stage I,Euthyroid,Surgery + Rai,8,No
+39,Male,No,Yes,3.96,Unifocal,Absent,Stage Iv,Hypothyroid,Surgery,8,No
+64,Female,No,No,2.39,Multifocal,Absent,Stage Iv,Euthyroid,Surgery,14,No
+73,Female,No,No,2.79,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery,11,No
+47,Male,Yes,No,2.81,Unifocal,Absent,Stage I,Hypothyroid,Surgery,7,No
+60,Male,No,Yes,3.17,Multifocal,Absent,Stage Iii,Hyperthyroid,Surgery,11,No
+65,Male,Yes,Yes,5.13,Multifocal,Present,Stage Iv,Hypothyroid,Surgery,9,No
+78,Female,No,Yes,3.07,Unifocal,Present,Stage I,Euthyroid,Surgery + Radiation,8,No
+34,Female,No,No,2.13,Multifocal,Present,Stage I,Euthyroid,Surgery + Radiation,14,No
+43,Male,No,No,4.15,Multifocal,Present,Stage I,Hypothyroid,Surgery,9,No
+53,Male,No,No,5.12,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,9,Yes
+18,Male,No,No,1.99,Unifocal,Absent,Stage Iii,Hypothyroid,Surgery,6,Yes
+25,Female,No,No,5.87,Multifocal,Absent,Stage Ii,Euthyroid,Surgery + Radiation,2,No
+66,Male,No,Yes,4.0,Multifocal,Absent,Stage Iv,Hypothyroid,Surgery + Rai,12,No
+52,Female,No,No,4.74,Multifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,7,Yes
+78,Female,Yes,No,5.26,Unifocal,Absent,Stage I,Hyperthyroid,Surgery + Radiation,3,No
+69,Male,No,No,4.67,Unifocal,Absent,Stage Ii,Hypothyroid,Surgery + Radiation,13,No
+32,Male,No,No,3.37,Multifocal,Present,Stage I,Hyperthyroid,Surgery + Rai,7,No
+64,Male,No,No,4.96,Unifocal,Present,Stage Iii,Hyperthyroid,Surgery,9,Yes
+73,Female,No,No,3.81,Multifocal,Absent,Stage Ii,Hyperthyroid,Surgery + Radiation,10,Yes
